@@ -9,3 +9,37 @@
 /* .fas {
     line-height: 2;
 } */
+
+/*页脚自定义字段字体颜色*/
+
+.footer_custom_text {
+    color: #00c4b6;
+}
+
+/*页脚a标签字体颜色*/
+
+/* #footer-wrap a {
+    color: #00c4b6;
+} */
+
+
+/*up酱*/
+
+#upj:hover {
+    cursor: url(https://gcore.jsdelivr.net/gh/wssf14/image/littlekeqingtouming.png), auto;
+}
+
+/* 鼠标图标 */
+/* body {
+    cursor: url(https://cdn.jsdelivr.net/gh/lete114/CDN@1.0/Use/Jkll8I.png), auto;
+} */
+
+body {
+    cursor: url(https://gcore.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/default.cur),
+        default;
+}
+a,
+img {
+    cursor: url(https://gcore.jsdelivr.net/gh/sviptzk/HexoStaticFile@latest/Hexo/img/pointer.cur),
+        default;
+}
