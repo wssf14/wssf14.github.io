@@ -1,0 +1,11 @@
+/* 自定义butterfly字体 */
+@font-face {
+    font-family: 'sleek';
+    src: url('https://cdn.jsdelivr.net/gh/lete114/CDN2/zaxiang/sleek.woff2');
+}
+
+/*修复添加up酱后图标上移的bug*/
+
+/* .fas {
+    line-height: 2;
+} */
