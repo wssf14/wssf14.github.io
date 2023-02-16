@@ -4,7 +4,7 @@
 // app.removeAttribute('id')
 
 /*添加图片top*/
-var top_up = "<img id='upj' class='upj' style='max-width: 300%; transform: translate(-85px,-70px);' src='https://gcore.jsdelivr.net/gh/wssf14/image/littlekeqingtouming.png' title='回到顶部' >";
+var top_up = "<img id='upj' class='upj' style='max-width: 360%; transform: translate(-105px,-70px);' src='https://gcore.jsdelivr.net/gh/wssf14/image/littlekeqingtouming.gif' title='回到顶部' >";
 /*添加到返回顶部按钮下*/
 document.getElementById("go-up").innerHTML += top_up;
 
